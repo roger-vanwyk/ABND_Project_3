@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">JavaBasics_Quiz</string>
+    <string name="question1title">Question 1</string>
+    <string name="question2title">Question 2</string>
+    <string name="question3title">Question 3</string>
+    <string name="question4title">Question 4</string>
+    <string name="question5title">Question 5</string>
+    <string name="question1">A piece of memory that can contain a value?</string>
+    <string name="answerJava">Java</string>
+    <string name="answerVariables">Variables</string>
+    <string name="answerAndroid">Android</string>
+    <string name="question2">Templates used to create objects?</string>
+    <string name="answerClasses">Classes</string>
+    <string name="answerMethods">Methods</string>
+    <string name="answerObjects">Objects</string>
+    <string name="question3">An array of objects?</string>
+    <string name="PrefixArrayStringHint">Prefix of Array</string>
+    <string name="question4">A value passed to a function when the function is called?</string>
+    <string name="answerArguments">Arguments</string>
+    <string name="question5">Used to define a particular value during a function definition?</string>
+    <string name="submit">Submit</string>
+    <string name="answerParameters">Parameters</string>
+    <string name="answerValues">Values</string>
+    <string name="answerFunctions">Functions</string>
+    <string name="answerIntegers">Integers</string>
+</resources>
